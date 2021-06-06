@@ -1,0 +1,14 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "Practica de Blockchain",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Manuel Soto",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  }
+}
